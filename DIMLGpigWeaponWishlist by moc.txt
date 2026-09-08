@@ -1,5 +1,5 @@
 title:小棒猪（关注B站）的刷取清单，DIM心愿单by雨落漠城
-description:在不同场景下，不同武器的推荐分级会出现变化。主要区分场景：高难宗师、副本清怪／机制、副本输出。伤害 DPS 参考武器框架页。T0：无替代性，独一档，T1：强力，不错的选择，T2：能用，T3：一般，T4：不建议使用。为了更精细化评级，会出现 T0.5／T1.5 的小数点评级。评级只是为了提供衡量强度的标准，请勿上纲上线。不会出现 PVP 枪，不会出现基本没有用途的枪。因perk推荐存在优先级顺序（优先级按从上到下），仅提供第一推荐组合参考，详情请参考大佬的表格自行搭配哦（感谢UP主小棒猪-LGpig大佬的耐心指导以及日栎w大佬的精通命运2必备的网站 - Starside，非常好用），网页地址：https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/pve-farming/index.html
+description:在不同场景下，不同武器的推荐分级会出现变化。主要区分场景：高难宗师、副本清怪／机制、副本输出。伤害 DPS 参考武器框架页。T0：无替代性，独一档，T1：强力，不错的选择，T2：能用，T3：一般，T4：不建议使用。为了更精细化评级，会出现 T0.5／T1.5 的小数点评级。评级只是为了提供衡量强度的标准，请勿上纲上线。不会出现 PVP 枪，不会出现基本没有用途的枪。因perk推荐存在优先级顺序（优先级按从上到下），仅提供第一推荐组合参考，详情请参考大佬的表格自行搭配哦（感谢UP主小棒猪-LGpig大佬的耐心指导以及日栎w大佬的精通命运2必备的网站 - Starside，非常好用），网页地址：https://starside.work/pve-farming/index.html
 
 
 
@@ -9354,331 +9354,331 @@ dimwishlist:item=1484294659&perks=2360347339,557221067
 
 
 //牵引器火炮
-//notes: 输出工具枪（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出工具枪（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3580904581&perks=
 
 //真相
-//notes: 输出T0，高难T0.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T0，高难T0.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1201830623&perks=
 
 //赫沃斯托夫7G-0X
-//notes: 清怪T0，高难T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T0，高难T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=4129629253&perks=
 
 //单人合唱
-//notes: 清怪T0，输出T1.5，高难T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T0，输出T1.5，高难T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3698448090&perks=
 
 //英勇利刃
-//notes: 清怪T0.5，输出T3，高难T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T0.5，输出T3，高难T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3049715579&perks=
 
 //混乱无序
-//notes: 清怪T1，输出T1，高难T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1，输出T1，高难T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2376481550&perks=
 
 //千语
-//notes: 输出T0.5，高难T0.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T0.5，高难T0.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2069224589&perks=
 
 //狼毒
-//notes: 输出T0，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T0，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1753923263&perks=
 
 //隐秘追猎
-//notes: 输出T0，高难T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T0，高难T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2905188646&perks=
 
 //死亡信使
-//notes: 清怪T0，输出T1，高难T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T0，输出T1，高难T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=46125926&perks=
 dimwishlist:item=2812324401&perks=
 
 //堡垒
-//notes: 清怪T1，输出T0.5，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1，输出T0.5，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2415517654&perks=
 
 //神圣裁决
-//notes: 输出工具枪（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出工具枪（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=4103414242&perks=
 
 //叛贼
-//notes: 清怪T1，输出T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1，输出T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=253843484&perks=
 
 //Vex揭秘者
-//notes: 清怪T0.5，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T0.5，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=4289226715&perks=
 
 //烈日弹丸
-//notes: 清怪T0.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T0.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2907129557&perks=
 
 //利维坦之息
-//notes: 输出T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T0（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2591746970&perks=
 
 //加拉尔号角
-//notes: 输出工具枪，清怪T0，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出工具枪，清怪T0，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1363886209&perks=
 
 //裂波者
-//notes: 清怪T0.5，输出T3，高难T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T0.5，输出T3，高难T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1852863732&perks=
 
 //寄生虫
-//notes: 清怪T1，输出T1，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1，输出T1，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2812324400&perks=
 
 //需求层级
-//notes: 输出T0，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T0，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=4174431791&perks=
 
 //伊邪那岐的重担
-//notes: 清怪T2.5，输出T1，高难T4（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2.5，输出T1，高难T4（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3211806999&perks=
 
 //杀手之牙
-//notes: 清怪T1，输出T2.5，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1，输出T2.5，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1047932517&perks=
 
 //法夫纳
-//notes: 输出工具枪（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出工具枪（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2197778303&perks=
 
 //故我在
-//notes: （意外缓刑）涡流：输出T1，高难T0.5；（纯五度）铸造：输出T0.5，高难T1.5；（电弧导体）波形：清怪T1，高难T2；（意外缓刑）轻质：输出T1；（狼群弹药）任意：特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: （意外缓刑）涡流：输出T1，高难T0.5；（纯五度）铸造：输出T0.5，高难T1.5；（电弧导体）波形：清怪T1，高难T2；（意外缓刑）轻质：输出T1；（狼群弹药）任意：特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1681583613&perks=
 
 //阿格尔的权杖
-//notes: 清怪T0.5，输出T3，高难T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T0.5，输出T3，高难T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1833195496&perks=
 
 //集体义务
-//notes: 清怪T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3505113722&perks=
 
 //冷酷无情
-//notes: 输出T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=4190156464&perks=
 
 //维王者之剑
-//notes: 清怪T1，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1，高难T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3118061005&perks=
 
 //三体坐观者
-//notes: 清怪T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=814876685&perks=
 
 //第四骑士
-//notes: 清怪T1，输出T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1，输出T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1665952087&perks=
 
 //回旋喝彩
-//notes: 输出T1，高难T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T1，高难T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1202007252&perks=
 
 //阿克瑞斯传说
-//notes: 输出T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3580904580&perks=
 
 //新马尔帕伊斯
-//notes: 清怪T1，输出T3，高难T3 （详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1，输出T3，高难T3 （详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1736135946&perks=
 
 //泰拉巴
-//notes: 清怪T1（火伤场景更合适）（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1（火伤场景更合适）（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3110698812&perks=
 
 //赴险者
-//notes: 清怪T1（电伤场景）（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1（电伤场景）（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3089417789&perks=
 
 //异星噬菌
-//notes: 清怪：T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪：T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1395261499&perks=
 
 //越橘
-//notes: 清怪：T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪：T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2286143274&perks=
 
 //引力子长枪
-//notes: 清怪：T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪：T1（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3628991658&perks=
 
 //墓园双星
-//notes: 清怪：T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪：T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1481594633&perks=
 
 //彼岸新域
-//notes: 清怪T2，输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2，输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2581676735&perks=
 
 //传家宝
-//notes: 输出T1，高难T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T1，高难T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1685137410&perks=
 
 //心影
-//notes: 输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3664831848&perks=
 
 //龙息
-//notes: 高难T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 高难T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=17096506&perks=
 
 //挽歌
-//notes: 输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3487253372&perks=
 
 //不祥之兆
-//notes: 清怪T2，输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2，输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3821409356&perks=
 
 //狼王
-//notes: 清怪T1.5，输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1.5，输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3413860063&perks=
 
 //普罗米修斯透镜
-//notes: 清怪T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T1.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=19024058&perks=
 
 //枯骨鳞片
-//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=46524085&perks=
 
 //枯萎囤积
-//notes: 输出T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2357297366&perks=
 
 //二象性
-//notes: 清怪T2，输出T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2，输出T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3460576091&perks=
 
 //悦耳之声
-//notes: 清怪T4，输出T2，高难T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T4，输出T2，高难T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3284383335&perks=
 
 //缩影
-//notes: 输出T3，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T3，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=4207066264&perks=
 
 //终局螺旋钻
-//notes: 输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T2，高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=331231237&perks=
 
 //爱莲娜之誓
-//notes: 高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3524313097&perks=
 
 //D.A.R.C.I
-//notes: 输出T2（狙击辅助工具枪）（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T2（狙击辅助工具枪）（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3141979346&perks=
 
 //血色浪漫
-//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3437746471&perks=
 
 //精致坟墓
-//notes: 清怪T2（电术电荷思维）（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2（电术电荷思维）（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=374573733&perks=
 
 //大序曲
-//notes: 输出T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1763584999&perks=
 
 //破冰者
-//notes: 高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1111334348&perks=
 
 //战狮
-//notes: 高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 高难T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3549153978&perks=
 
 //库尔之影
-//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2200470033&perks=
 
 //改造版猩红死命
-//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=427899681&perks=
 
 //蠕虫低语
-//notes: 输出T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1891561814&perks=
 dimwishlist:item=1983149589&perks=
 
 //青龙协同之刃
-//notes: 清怪T2，高难T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2，高难T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=542203595&perks=
 
 //入侵者
-//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1234150730&perks=
 
 //蒙特卡洛
-//notes: 清怪T2，高难T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2，高难T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=4068264807&perks=
 
 //群居者
-//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3899270607&perks=
 
 //寒冬之啮
-//notes: 高难T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 高难T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3118061004&perks=
 
 //狂飙
-//notes: 清怪T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2907129556&perks=
 
 //监护人
-//notes: 输出T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3413860062&perks=
 
 //荆棘
-//notes: 清怪T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 清怪T2.5（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3973202132&perks=
 
 //同调
-//notes: 输出T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 输出T3（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=4017959782&perks=
 
 //阿莱索尼姆
-//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2350354266&perks=
 
 //玄武行动之刃
-//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2535142413&perks=
 
 //劲弩
-//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2130065553&perks=
 
 //流明
-//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3512014804&perks=
 
 //救赎之握
-//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=370712896&perks=
 
 //条件终局
-//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=3371017761&perks=
 
 //蝎狮
-//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=219145368&perks=
 
 //冥府三头犬+1
-//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=1541131350&perks=
 
 //邪恶符咒
-//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://destiny2-starside-dea-mods-d1g0j2rile2323f73.webapps.tcloudbase.com/exotic-weapons/index.html）
+//notes: 特殊用途（详细评价请阅读小棒猪-LGpig刷取清单-异域武器，https://starside.work/exotic-weapons/index.html）
 dimwishlist:item=2816212794&perks=
 
 
 
-Ver1.0 已校对2026.09.07
+Ver1.0 已校对2026.09.08
